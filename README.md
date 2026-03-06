@@ -5,7 +5,7 @@ Dashboard em Streamlit para apresentação de indicadores ecológicos em projeto
 ## Estrutura
 
 ```text
-fauna_dashboard/
+.
 ├── app.py
 ├── requirements.txt
 └── README.md
